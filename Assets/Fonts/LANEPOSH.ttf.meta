@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3f48d7e8cde405d42800ef3c1508583b
+timeCreated: 1519909833
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lane - Posh
+  fontNames:
+  - Lane - Posh
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

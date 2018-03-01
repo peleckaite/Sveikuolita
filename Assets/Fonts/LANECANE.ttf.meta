@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1208298f9ad92b141b66b6c9b2bd092e
+timeCreated: 1519909827
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lane - Cane
+  fontNames:
+  - Lane - Cane
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
